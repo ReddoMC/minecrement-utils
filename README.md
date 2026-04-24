@@ -11,3 +11,7 @@ Webhook sending various things, very configurable<br>
 Reset Helper to make rebirthing and prestiging easier.<br>
 
 # You can get the mod from the releases tab on the right! If you experience any bugs, contact reddocool on discord!
+
+DEPENDENCIES:
+MOD MENU (https://modrinth.com/mod/modmenu)
+CLOTH CONFIG API (https://modrinth.com/mod/cloth-config)
