@@ -2,7 +2,7 @@
 Adds many QoL features to make your life easier, and to help AFK! You can be tabbed out and the mod will still do it's thing!
 
 Feature list:
-/calculatemine <mspeed> <pick_power> (calculate best mine for coins)<br>
+/calculatemine <mining_speed> <pick_power> (calculate best mine for coins)<br>
 /smartwarp <mine/cave> to quick warp to places<br>
 Auto-Reconnect<br>
 Auto GG<br>
