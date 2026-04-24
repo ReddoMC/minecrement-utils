@@ -9,3 +9,5 @@ Auto GG
 Auto-Ability (Auto detects your abilities!)
 Webhook sending various things, very configurable
 Reset Helper to make rebirthing and prestiging easier.
+
+# You can get the mod from the releases tab on the right! If you experience any bugs, contact reddocool on discord!
