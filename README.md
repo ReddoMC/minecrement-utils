@@ -9,11 +9,11 @@ Auto GG<br>
 Auto-Ability (Auto detects your abilities!)<br>
 Webhook sending various things, very configurable<br>
 Reset Helper to make rebirthing and prestiging easier.<br>
-Auto /daily
+Auto /daily<br>
 Hide level up title
 
 # You can get the mod from the releases tab on the right! If you experience any bugs, contact reddocool on discord!
 
 DEPENDENCIES:
-CLOTH CONFIG API (https://modrinth.com/mod/cloth-config)
+CLOTH CONFIG API (https://modrinth.com/mod/cloth-config)<br>
 FABRIC API (https://modrinth.com/mod/fabric-api)
